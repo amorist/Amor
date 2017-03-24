@@ -7,6 +7,10 @@
     "type": "git",
     "url": "https://github.com/amor520/Amor.git"
   },
+  "bugs": {
+    "url": "https://github.com/amor520/Amor/issues"
+  },
+  "homepage": "https://github.com/amor520/Amor.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
