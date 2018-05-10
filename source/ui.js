@@ -55,7 +55,7 @@ module.exports = () => (
 	<div>
 		<br/>
 		<div>
-			<Text>{'I\'m a full-time open-sourcerer making things like macOS apps, CLI tools, and modules.'}</Text>
+			<Text>{'I\'m a open-sourcerer making things like macOS apps, CLI tools, and modules.'}</Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
