@@ -1,10 +1,10 @@
 {
   "name": "amor",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "amor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amor520/Amor.git"
+    "url": "https://github.com/amorist/Amor.git"
   },
   "bin": {
 		"amor": "source/cli.js"
@@ -22,9 +22,9 @@
 		"unicorns"
 	],
   "bugs": {
-    "url": "https://github.com/amor520/Amor/issues"
+    "url": "https://github.com/amorist/Amor/issues"
   },
-  "homepage": "https://github.com/amor520/Amor.git",
+  "homepage": "https://github.com/amorist/Amor.git",
   "scripts": {
     "test": "xo && ava"
   },
