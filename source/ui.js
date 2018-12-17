@@ -28,7 +28,7 @@ const items = [
 	},
 	{
 		label: 'GitHub',
-		url: 'https://github.com/amorist/Amor'
+		url: 'https://github.com/amorist'
 	},
 	{
 		label: 'About',
@@ -42,7 +42,6 @@ const items = [
 			console.log(await terminalImage.file(path.join(__dirname, 'unicorn3.gif')));
 		}
 	},
-	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
 		label: 'Quit',
 		action() {
