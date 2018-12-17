@@ -20,7 +20,7 @@ const handleSelect = item => {
 const items = [
 	{
 		label: 'Website',
-		url: 'https://amor.cool'
+		url: 'http://amorist.io'
 	},
 	{
 		label: 'Twitter',
@@ -32,7 +32,7 @@ const items = [
 	},
 	{
 		label: 'About',
-		url: 'https://amor.cool/about'
+		url: 'http://amorist.io/about'
 	},
 	{
 		label: 'Unicorns!',

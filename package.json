@@ -1,18 +1,18 @@
 {
-  "name": "amor",
-  "version": "0.0.10",
-  "description": "amor",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/amorist/Amor.git"
-  },
-  "bin": {
+	"name": "amor",
+	"version": "0.0.11",
+	"description": "amor",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/amorist/Amor.git"
+	},
+	"bin": {
 		"amor": "source/cli.js"
-  },
-  "engines": {
+	},
+	"engines": {
 		"node": ">=8"
-  },
-  "files": [
+	},
+	"files": [
 		"source"
 	],
 	"keywords": [
@@ -21,32 +21,32 @@
 		"Amor",
 		"unicorns"
 	],
-  "bugs": {
-    "url": "https://github.com/amorist/Amor/issues"
-  },
-  "homepage": "https://github.com/amorist/Amor.git",
-  "scripts": {
-    "test": "xo && ava"
-  },
-  "author": {
+	"bugs": {
+		"url": "https://github.com/amorist/Amor/issues"
+	},
+	"homepage": "https://github.com/amorist/Amor.git",
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"author": {
 		"name": "Amor",
 		"email": "amor90s.zhang@gmail.com",
-		"url": "https://amor.cool"
-  },
-  "dependencies": {
+		"url": "http://amorist.io/"
+	},
+	"dependencies": {
 		"import-jsx": "^1.3.0",
-		"ink": "^0.4.1",
-		"ink-select-input": "^1.0.0",
+		"ink": "^0.5.1",
+		"ink-select-input": "^2.0.0",
 		"meow": "^5.0.0",
 		"opn": "^5.3.0",
-		"term-img": "^2.1.0",
+		"term-img": "^4.0.0",
 		"terminal-image": "^0.1.0"
 	},
 	"devDependencies": {
 		"ava": "*",
-		"eslint-config-xo-react": "^0.16.0",
+		"eslint-config-xo-react": "^0.17.0",
 		"eslint-plugin-react": "^7.7.0",
-		"execa": "^0.10.0",
+		"execa": "^1.0.0",
 		"xo": "*"
 	},
 	"xo": {
@@ -59,5 +59,5 @@
 			}
 		}
 	},
-  "license": "MIT"
+	"license": "MIT"
 }
